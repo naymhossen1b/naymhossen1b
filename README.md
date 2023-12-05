@@ -1,22 +1,22 @@
 <!-- Header -->
-# 👋 Hi there, I'm Your Name
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
-[![GitHub followers](https://img.shields.io/github/followers/your-username.svg?style=social&label=Follow)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter.svg?style=social)](https://twitter.com/your-twitter)
+# 👋 Hi there, I'm Naym Hossen, MERN Stack Developer
+[![GitHub followers](https://img.shields.io/github/followers/naymhossen1b?style=social)](https://github.com/naymhossen1b)
+[![Twitter Follow](https://img.shields.io/twitter/follow/naymhossen1b?style=social)](https://twitter.com/naymhossen1b)
 
 <!-- Introduction -->
-Passionate about coding and creating software, I'm a [Your Profession/Title] based in [Your Location]. My interests lie in [Your Interests]. 
+Passionate about crafting web experiences and solving real-world problems. I specialize in the MERN stack, bringing ideas to life through clean and efficient code.
 
 <!-- Technologies & Tools -->
 ## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-16.8-blue)
-![Node.js](https://img.shields.io/badge/Node.js-v14-green)
-![VS Code](https://img.shields.io/badge/VS%20Code-1.58-purple)
+![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 <!-- Currently Learning -->
 ## 🌱 Currently Learning
-Learning [Current Learning Focus] to enhance my skills.
+Improving my skills in [Current Learning Focus].
 
 <!-- Projects -->
 ## 🚀 Projects
@@ -26,16 +26,18 @@ Learning [Current Learning Focus] to enhance my skills.
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naymhossen1b&show_icons=true&count_private=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymhossen1b&layout=compact)
 
-<!-- How to reach me -->
-## 📫 How to reach me
-- Email: <a href="https://twitter.com/naymhossen1b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naymhossen1b" height="30" width="40" /></a>
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
+<!-- Connect with Me -->
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-naymhossen1b-181717?logo=github&logoColor=white)](https://github.com/naymhossen1b)
+[![Twitter](https://img.shields.io/badge/Twitter-naymhossen1b-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naymhossen1b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naym%20Hossen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhossen1b/)
+[![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymhossen1b/)
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories and connect with me! 😊
+
 
 ###############################################################################################################################################################
 
