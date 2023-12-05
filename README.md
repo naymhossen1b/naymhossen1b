@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Namym Hossen</h1>
-<h3 align="center">Full Stack Developer with a Focus on MERN || Expert in Front-end Technologies || Building Scalable and Responsive Web Solutions || Continuous Learner and Passionate about Crafting Seamless Web Experiences.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naymhossen1b&label=Profile%20views&color=0e75b6&style=flat" alt="naymhossen1b" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naymhossen1b" alt="naymhossen1b" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/naymhossen1b" target="blank"><img src="https://img.shields.io/twitter/follow/naymhossen1b?logo=twitter&style=for-the-badge" alt="naymhossen1b" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naymhossen1b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naymhossen1b" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naymhossen1b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naymhossen1b" height="30" width="40" /></a>
