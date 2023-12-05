@@ -1,7 +1,5 @@
 <!-- Header -->
 # 👋 Hi there, I'm <span style="color: #3498db; font-family: 'Arial', sans-serif; font-size: 24px;">Naym Hossen</span>, MERN Stack Developer
-[![GitHub followers](https://img.shields.io/github/followers/naymhossen1b?style=social)](https://github.com/naymhossen1b)
-[![Twitter Follow](https://img.shields.io/twitter/follow/naymhossen1b?style=social)](https://twitter.com/naymhossen1b)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-naymhossen1b-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/naymhossen1b)
 
 <!-- Introduction -->
