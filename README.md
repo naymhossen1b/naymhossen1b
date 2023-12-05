@@ -29,8 +29,10 @@
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naymhossen1b&show_icons=true&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymhossen1b&layout=compact)
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naymhossen1b&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymhossen1b&layout=compact" alt="Top Languages" />
+</div>
 
 <!-- Connect with Me -->
 ## 📫 Connect with Me
