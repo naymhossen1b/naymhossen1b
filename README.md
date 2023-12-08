@@ -22,6 +22,51 @@ I'm a dedicated MERN Stack developer with a passion for crafting outstanding web
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
 
 <div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
+
+## 🔥 Projects
+
+### 🏋️ Fitness Tracking Website
+
+- **Description:** A fitness tracking website designed to help users monitor their workouts and track fitness progress. Users can log exercises, set goals, or any user apply for trainer and view their achievements.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT
+- [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
+
+### 🌐 Job Post MERN Stack Website
+
+- **Description:** A dynamic job posting platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. Allows employers to post job opportunities and job seekers to explore and apply.
+- **Technologies Used:**
+  - Frontend: React.js, Tailwind CSS
+  - Backend: Node.js, Express.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT
+- [Client Site](https://github.com/naymhossen1b/Job-Box-Client-Site) - [Server Site](https://github.com/naymhossen1b/Job-Box-Server-Site) - [Live Demo](https://job-box-apps.netlify.app/)
+
+### 💬 Real-time Chat & User-Friendly Post Platform
+- **Description:** A comprehensive social platform developed with the Full MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform features a real-time chat system, enabling users to connect seamlessly. Users can also share posts, express thoughts, and interact in a user-friendly environment.
+- **Key Features:**
+  - Real-time Chat: Connect with other users instantly through a responsive and dynamic chat system.
+  - User-Friendly Posts: Share thoughts, ideas, and updates with a clean and intuitive post creation interface.
+  - Friend System: Build connections by adding and interacting with friends, similar to popular social networks.
+- **Technologies Used:**
+  - Frontend: React.js, Tailwind CSS
+  - Backend: Node.js, Express.js
+  - Database: MongoDB, Mongoose
+  - Real-time Communication: Socket.io
+  - Authentication: Firebase Authentication with JWT
+- **Current Status:** Actively developing and refining the project to enhance user experience and add more features.
+- [Client Site](https://github.com/naymhossen1b/En-Official-Client-Site) - [Server Site](https://github.com/naymhossen1b/En-Official-Server-Site-) - [Live Demo](https://github.com/naymhossen1b)
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-naymhossen1b-181717?logo=github&logoColor=white)](https://github.com/naymhossen1b)
+[![Twitter](https://img.shields.io/badge/Twitter-naymhossen1b-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naymhossen1b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naym%20Hossen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhossen1b/)
+[![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymhossen1b/)
+
 <!-- Currently Learning -->
 
 ## 🌱 Currently Learning
@@ -30,38 +75,5 @@ I'm currently expanding my knowledge and expertise in the following area:
 
 - **Next.js:** Exploring the world of server-side rendering and React framework.
 
-## 🔥 Projects
-
-### 1. 🏋️ Fitness Tracking Website
-- **Description:** A fitness tracking website designed to help users monitor their workouts and track fitness progress. Users can log exercises, set goals, and view their achievements.
-- **Technologies Used:**
-  - Frontend: JavaScript, React.js, Tailwind CSS
-  - Backend: Express.js, Node.js
-  - Database: MongoDB
-  - Authentication: Firebase Authentication with JWT
-- [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code)
-- [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-)
-- [Live Demo](https://fintex-fitness.netlify.app)
-
-### 2. Project Name
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used in the project.
-- [Client Site](https://github.com/your-username/project-name-1)
-- [Server Site](https://github.com/your-username/project-name-1)
-- [Live Demo](https://your-live-demo-link.com)
-
-### 3. Project Name
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used in the project.
-- [Client Site](https://github.com/your-username/project-name-1)
-- [Server Site](https://github.com/your-username/project-name-1)
-- [Live Demo](https://your-live-demo-link.com)
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-naymhossen1b-181717?logo=github&logoColor=white)](https://github.com/naymhossen1b)
-[![Twitter](https://img.shields.io/badge/Twitter-naymhossen1b-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naymhossen1b)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naym%20Hossen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhossen1b/)
-[![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymhossen1b/)
 
 <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
