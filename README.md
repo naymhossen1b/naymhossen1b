@@ -1,7 +1,4 @@
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-
-
 <!-- Connect with Me -->
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-naymhossen1b-181717?logo=github&logoColor=white)](https://github.com/naymhossen1b)
@@ -10,17 +7,18 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymhossen1b/)
 
 
-## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=2DA44E&currStreakLabel=2DA44E&dates=2DA44E&border=2DA44E&background=000000&stroke=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&fire=2DA44E&ring=2DA44E&sideNums=2DA44E&dates=2DA44E&border=2DA44E)](https://git.io/streak-stats)
-
-
 <!-- Technologies & Tools -->
 ## 🔧 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
 
-<!-- Projects -->
-## 🚀 Projects
-- [Fintex Fitness](https://fintex-fitness.netlify.app): <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">A fitness tracking website using Tailwind CSS, Bootstrap, and Next.js. Allows users to [provide a brief description of the project].</span>
+
+## 📈 GitHub Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=2DA44E&currStreakLabel=2DA44E&dates=2DA44E&border=2DA44E&background=000000&stroke=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&fire=2DA44E&ring=2DA44E&sideNums=2DA44E&dates=2DA44E&border=2DA44E" alt="GitHub Streak">
+  </a>
+</p>
+
 
 <!-- Introduction -->
 <!-- <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Passionate about crafting web experiences and solving real-world problems. I'm currently learning Next.js and Redux, and I specialize in the MERN stack, bringing ideas to life through clean and efficient code.</span> -->
