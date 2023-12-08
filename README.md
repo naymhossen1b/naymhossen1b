@@ -1,5 +1,20 @@
 
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+
+<a href="https://www.facebook.com/naymhossen1b/" rel="nofollow">
+<img src="./assets/blmbg_f_nanc.gif" style="max-width: 100%;">
+</a>
+
+<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
+
+## 📈 Current Stats
+<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=2DA44E&currStreakLabel=2DA44E&dates=2DA44E&border=2DA44E&background=000000&stroke=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&fire=2DA44E&ring=2DA44E&sideNums=2DA44E&dates=2DA44E&border=2DA44E" alt="GitHub Streak">
+  </a>
+</p>
+
 
  <!-- [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
@@ -22,11 +37,6 @@
 [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=2DA44E&currStreakLabel=2DA44E&dates=2DA44E&border=2DA44E&background=000000&stroke=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&fire=2DA44E&ring=2DA44E&sideNums=2DA44E&dates=2DA44E&border=2DA44E" alt="GitHub Streak">
-  </a>
-</p> -->
 
 <div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
 <!-- Currently Learning -->
