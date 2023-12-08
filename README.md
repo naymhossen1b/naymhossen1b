@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="./assets/blmbg_f_nanc.gif" alt="Github Banner" style="max-width: 100%;">
+</p>
 
-<img src="./assets/blmbg_f_nanc.gif" alt="Github Banner" style="max-width: 200%;">
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 ## 📫 Connect with Me
