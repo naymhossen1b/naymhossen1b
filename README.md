@@ -4,7 +4,7 @@
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
 ## 📈 GitHub Stats
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/naymhossen1b)
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 ## 📫 Connect with Me
