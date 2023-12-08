@@ -1,20 +1,7 @@
 
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" alt="Github Banner" style="max-width: 100%;">
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
-
-<!-- ## 📈 Current Stats
-<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
-<p align="center">
-  <a href="https://www.facebook.com/naymhossen1b">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=2DA44E&currStreakLabel=2DA44E&dates=2DA44E&border=2DA44E&background=000000&stroke=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&fire=2DA44E&ring=2DA44E&sideNums=2DA44E&dates=2DA44E&border=2DA44E" alt="GitHub Streak">
-  </a>
-</p> -->
-
-
- <!-- [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<!-- Connect with Me -->
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-naymhossen1b-181717?logo=github&logoColor=white)](https://github.com/naymhossen1b)
@@ -30,8 +17,7 @@
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
 ## 📈 GitHub Stats
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
