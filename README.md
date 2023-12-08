@@ -1,19 +1,15 @@
 
-<!-- [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
-<a href="https://www.facebook.com/naymhossen1b/" rel="nofollow">
-<img src="./assets/blmbg_f_nanc.gif" style="max-width: 100%;">
-</a>
+[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
-## 📈 Current Stats
+<!-- ## 📈 Current Stats
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://www.facebook.com/naymhossen1b">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=2DA44E&currStreakLabel=2DA44E&dates=2DA44E&border=2DA44E&background=000000&stroke=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&fire=2DA44E&ring=2DA44E&sideNums=2DA44E&dates=2DA44E&border=2DA44E" alt="GitHub Streak">
   </a>
-</p>
+</p> -->
 
 
  <!-- [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -43,8 +39,8 @@
 
 ## 🌱 Current Overview
 
-<span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Improving my skills in Next.js and Redux.</span>
-<span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Passionate about crafting web experiences and solving real-world problems. I'm currently learning Next.js and Redux, and I specialize in the MERN stack, bringing ideas to life through clean and efficient code.</span>
+<span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Improving my skills in NextJs.
+Passionate about crafting web experiences and solving real-world problems. I'm currently learning Next.js and Redux, and I specialize in the MERN stack, bringing ideas to life through clean and efficient code.</span>
 
 <!-- GitHub Stats -->
 <!-- ## 📈 GitHub Stats
