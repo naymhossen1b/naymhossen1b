@@ -5,7 +5,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a dedicated MERN Stack developer with a passion for crafting outstanding web development experiences. As an expert in Front-end Technologies, I specialize in building scalable and responsive web solutions. Currently, I'm honing my skills with a focus on learning Next.js. With a robust proficiency in the MERN stack, I bring ideas to life through the implementation of clean and efficient code.
+I'm a dedicated MERN Stack developer passionate about crafting outstanding web development experiences. As an expert in Front-end Technologies, I specialize in building scalable and responsive web solutions. Currently, I'm honing my skills with a focus on learning Next.js. With a robust proficiency in the MERN stack, I bring ideas to life by implementing clean and efficient code.
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
@@ -41,7 +41,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting outstanding web
 
 ### 🏋️ Fitness Tracking Website
 
-- **Description:** A fitness tracking website designed to help users monitor their workouts and track fitness progress. Users can log exercises, set goals, or any user apply for trainer and view their achievements.
+- **Description:** A fitness tracking website designed to help users monitor their workouts and track fitness progress. Users can log exercises, set goals, or apply for trainers and view their achievements.
 - **Technologies Used:**
   - Frontend: JavaScript, React.js, Tailwind CSS
   - Backend: Express.js, Node.js
@@ -49,7 +49,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting outstanding web
   - Authentication: Firebase Authentication with JWT
 - [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
 
-### 🌐 Job Post MERN Stack Website
+### 🌐 Job Post-MERN Stack Website
 
 - **Description:** A dynamic job posting platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. Allows employers to post job opportunities and job seekers to explore and apply.
 - **Technologies Used:**
@@ -59,27 +59,12 @@ I'm a dedicated MERN Stack developer with a passion for crafting outstanding web
   - Authentication: Firebase Authentication with JWT
 - [Client Site](https://github.com/naymhossen1b/Job-Box-Client-Site) - [Server Site](https://github.com/naymhossen1b/Job-Box-Server-Site) - [Live Demo](https://job-box-apps.netlify.app/)
 
-### 💬 Real-time Chat & User-Friendly Post Platform
-- **Description:** A comprehensive social platform developed with the Full MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform features a real-time chat system, enabling users to connect seamlessly. Users can also share posts, express thoughts, and interact in a user-friendly environment.
-- **Key Features:**
-  - Real-time Chat: Connect with other users instantly through a responsive and dynamic chat system.
-  - User-Friendly Posts: Share thoughts, ideas, and updates with a clean and intuitive post creation interface.
-  - Friend System: Build connections by adding and interacting with friends, similar to popular social networks.
-- **Technologies Used:**
-  - Frontend: React.js, Tailwind CSS
-  - Backend: Node.js, Express.js
-  - Database: MongoDB, Mongoose
-  - Real-time Communication: Socket.io
-  - Authentication: Firebase Authentication with JWT
-- **Current Status:** Actively developing and refining the project to enhance user experience and add more features.
-- [Client Site](https://github.com/naymhossen1b/En-Official-Client-Site) - [Server Site](https://github.com/naymhossen1b/En-Official-Server-Site-) - [Live Demo](https://github.com/naymhossen1b)
-
 
 <!-- Currently Learning -->
 
 ## 🌱 Currently Learning
 
-I'm currently expanding my knowledge and expertise in the following area:
+I'm currently expanding my knowledge and expertise in the following areas:
 
 - **Next.js:** Exploring the world of server-side rendering and React framework.
 
