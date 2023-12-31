@@ -9,7 +9,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
-## 📈  GitHub Stats
+## 📈 GitHub Stats
 
 [![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/naymhossen1b)
 
@@ -23,12 +23,11 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 <div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
 
-## 📊  Current Stats
+## 📊 Current Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
 </p>
-
 
 ## 📫 Connect with Me
 
@@ -38,6 +37,16 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 [![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymhossen1b/)
 
 ## 🔥 Projects
+
+### 🛍️ E-commerce Base Project
+
+- **Description:** Welcome to our E-commerce project! This application is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing a robust and scalable solution for online shopping.
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT
+- [Client Site](https://github.com/naymhossen1b/UrbanHaven-Client-Site) - [Server Site](https://github.com/naymhossen1b/UrbanHaven-Server-Site) - [Urban Haven](https://urben-haven.netlify.app)
 
 ### 🏋️ Fitness Tracking Website
 
@@ -59,7 +68,6 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
   - Authentication: Firebase Authentication with JWT
 - [Client Site](https://github.com/naymhossen1b/Job-Box-Client-Site) - [Server Site](https://github.com/naymhossen1b/Job-Box-Server-Site) - [Live Demo](https://job-box-apps.netlify.app/)
 
-
 <!-- Currently Learning -->
 
 ## 🌱 Currently Learning
@@ -67,6 +75,5 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 I'm currently expanding my knowledge and expertise in the following areas:
 
 - **Next.js:** Exploring the world of server-side rendering and React framework.
-
 
 <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
